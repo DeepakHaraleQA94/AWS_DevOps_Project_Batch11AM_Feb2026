@@ -28,7 +28,7 @@ public void validateLoginPage() throws InterruptedException {
 	 }
 	
 	driver.close();
-	
+	System.out.println("helloi");
 	
 }
 
